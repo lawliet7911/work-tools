@@ -1,0 +1,27 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "uni-app"
+		}
+	},{
+		"path": "pages/commuteTime/commuteTime",
+		"style": {
+			"navigationBarTitleText": "uni-app"
+		}
+	},{
+		"path": "pages/overtimeRecord/overtimeRecord",
+		"style": {
+			"navigationBarTitleText": "uni-app"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationStyle": "custom",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
